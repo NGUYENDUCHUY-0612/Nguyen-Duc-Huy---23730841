@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 24 14:12:36 2024
+Created on Sat Aug 24 22:05:36 2024
 
-@author:smai
+@author: Nguyễn Đức Huy - 23730841
+
 """
 h = int(input("NHập số giờ: "))
 m = int(input("Nhập số phút: "))
