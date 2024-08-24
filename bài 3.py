@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 24 13:59:59 2024
+Created on Sat Aug 24 22:01:59 2024
 
-@author: Smai
+@author: Nguyễn Đức Huy
 """
 
 n = int(input("Nhập vào số nguyên n: "))
