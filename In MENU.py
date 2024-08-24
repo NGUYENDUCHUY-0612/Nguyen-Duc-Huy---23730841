@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 24 14:41:57 2024
+Created on Sat Aug 24 22:41:57 2024
 
-@author: Asus
+@author: Nguyễn Đức Huy - 23730841
 """
 
 print("========MENU=======")
