@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 24 13:41:03 2024
-
+Created on Sat Aug 24 22:15:03 2024
+@author: Nguyễn Đức Huy - 23730841
 """
 
 a = float(input("Nhập giá trị của a: "))
